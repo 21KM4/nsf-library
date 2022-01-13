@@ -52,15 +52,6 @@
     <ClCompile Include="gme\Nsfe_Emu.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="gme\Ym2612_GENS.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="gme\Ym2612_MAME.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="gme\Ym2612_Nuked.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="gme\blargg_common.h">
@@ -130,18 +121,6 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="gme\Nsfe_Emu.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="gme\Ym2612_Emu.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="gme\Ym2612_Nuked.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="gme\Ym2612_MAME.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="gme\Ym2612_GENS.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

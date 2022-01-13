@@ -164,9 +164,6 @@
     <ClCompile Include="gme\Nes_Vrc6_Apu.cpp" />
     <ClCompile Include="gme\Nsfe_Emu.cpp" />
     <ClCompile Include="gme\Nsf_Emu.cpp" />
-    <ClCompile Include="gme\Ym2612_GENS.cpp" />
-    <ClCompile Include="gme\Ym2612_MAME.cpp" />
-    <ClCompile Include="gme\Ym2612_Nuked.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="gme\blargg_common.h" />
@@ -192,10 +189,6 @@
     <ClInclude Include="gme\Nes_Vrc6_Apu.h" />
     <ClInclude Include="gme\Nsfe_Emu.h" />
     <ClInclude Include="gme\Nsf_Emu.h" />
-    <ClInclude Include="gme\Ym2612_Emu.h" />
-    <ClInclude Include="gme\Ym2612_GENS.h" />
-    <ClInclude Include="gme\Ym2612_MAME.h" />
-    <ClInclude Include="gme\Ym2612_Nuked.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
